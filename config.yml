@@ -1,5 +1,5 @@
-github_user:    'intermine'
-github_project: 'intermine'
-project_name:   'Core InterMine Project'
+github_user:    'nniiicc'
+github_project: 'Dissertation'
+project_name:   'Diseertation'
 weekend:        [ 6, 7 ]
-base_url:       'github-burndown-chart'
+base_url:       'burndown'
